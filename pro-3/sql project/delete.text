@@ -1,0 +1,2 @@
+DELETE FROM Employees
+WHERE EmployeeID = 3;  -- Replace with the condition for employees who have left

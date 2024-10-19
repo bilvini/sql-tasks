@@ -1,0 +1,5 @@
+INSERT INTO Employees (EmployeeID, FirstName, LastName, DateOfBirth, DepartmentID, JobTitle, Salary)
+VALUES 
+(1, 'Alice', 'Johnson', '1990-01-15', 1, 'Manager', 75000),
+(2, 'Bob', 'Smith', '1985-05-22', 2, 'Developer', 60000),
+(3, 'Charlie', 'Brown', '1992-03-30', 1, 'HR Executive', 55000);

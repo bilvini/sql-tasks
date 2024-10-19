@@ -1,0 +1,2 @@
+SELECT * FROM Employees
+WHERE DepartmentID = 1 AND YEAR(CURDATE()) - YEAR(DateOfBirth) > 30;  -- Replace with desired age
